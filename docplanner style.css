@@ -1,0 +1,380 @@
+
+nav{
+    display:flex;
+    justify-content: space-between;
+    margin: 0 20px;
+    position:sticky;
+    top:0;
+    background-color: hsla(0,0%,100%,.98);;
+    left: 0; 
+    width: 100%; 
+    margin-left: 0px;
+  
+
+}  
+ul{
+    display:flex;
+    justify-content: space-around;
+
+}
+.links{
+    width:30% ;
+    list-style: none;
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    padding-top: 70
+    
+
+   
+}
+li {
+    list-style-type: none;   
+  
+}
+
+.aboutuss{ color: #00b39b;}
+
+.logodocplanner{
+    width: 60%
+}
+
+
+.leadlogo{   display: block;
+            margin: 0 auto;
+            width: 39px;        
+             height: 40px;
+            
+            
+}
+
+        
+.leadsection h1{   color:#00b39b ;
+                   font-size: 34px;
+                   text-align: center;
+                   font-family: Work Sans,Arial,sans-serif;   
+                   font-weight: 300;      
+                           
+}
+
+
+
+.content1 { display: flex;
+    justify-content:space-around;
+    margin: 0 90px;
+    line-height: 1.75;
+    font-weight: 400;
+}
+
+
+
+.paragraph1{ 
+    font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+    padding-top: 70px;
+    float: left;
+    min-height: 1px;
+    padding: 10px
+
+}
+
+
+.paragraph2{ font-family: Roboto,Arial,sans-serif;
+              color: #747474;
+              padding-top: 70px;
+               float: left;
+              min-height: 1px;
+               padding: 10px
+}
+
+
+.elements{   display: flex;
+
+             justify-content: space-around;
+}
+
+
+.element1{
+    background: #00ccb1;
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;   
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+    width:30%;
+    
+    font-weight: 400;
+    font-family: Work Sans,Arial,sans-serif;
+}
+
+
+
+
+.element2{
+    background: #3d83df;
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width:30%;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+
+
+    font-weight:400;
+    font-family: Work Sans,Arial,sans-serif;
+}
+
+
+
+.element3{
+   
+    background: #1b2734;
+    border-radius: 10px;
+    padding: 2em 2em 0;
+    overflow: hidden;
+    height: 345px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width:30%;
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    margin: 0;
+    color: #fff;
+
+    font-weight: 400;
+    font-family: Work Sans,Arial,sans-serif;
+}
+
+
+
+
+
+
+
+
+
+.brandsection {  display: flex;
+
+    justify-content: space-between;    
+
+
+}
+
+.h1faza  {   float: left;
+    color: #00ccb1;;
+    font-family: Work Sans,Arial,sans-serif;
+    font-size: 1.625em;
+    margin: .25em 0 .35em;  }
+
+
+
+.brandlogos ul {  float: right;
+     display: flex;
+    flex-wrap: wrap;
+    align-items: right;
+    font-size: 0;
+    width: 67%;
+    color:#970404;
+    list-style: none;
+   }
+
+
+
+
+
+
+
+
+.grid { display: flex;
+    justify-content: space-between;}
+    
+
+
+.col{ display: flex;
+   align-content: flex-end;
+    margin: 0px 400px;
+
+  
+}
+
+
+
+.col2stat h1{font-size: 2.125rem;
+    color: #00b39b;
+    
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;}
+
+
+
+
+.col2stat p{ color: #747474;
+
+    max-width: 415px;
+    font-size: .875em;
+    font-weight: 400;
+    line-height: 1.7142857143;
+
+    }
+
+
+
+
+
+.officeshead {  display: inline;
+    
+        margin: 0 650px;
+        max-width: 460px;
+    
+
+    
+    text-align: center;
+
+    }
+
+
+
+
+
+
+.officeshead h1 {color: #00b39b;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    font: family 200px;
+}
+.officeshead p{ color: #747474;
+ font size: 200px;
+
+}
+
+
+
+
+
+.officesslider{display: flex;
+    flex-wrap: wrap;
+    margin: 0 -10px;
+    max-width: 100%;
+    height: auto;
+  justify-content: center;
+}
+
+
+
+.office{
+width: 26%;
+float: left;
+box-sizing: inherit;
+
+}
+
+.officeword{ display: flex;
+    font-size: 1.125em;
+    font-weight: 400;
+    line-height: 1.6666666667;
+    padding: 1.1111111111em;  
+ 
+}
+
+
+.btnsmall{
+display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    outline: 0;
+    border: 0;
+    border-radius: 4px;
+    padding: 1.1666666667 em1.5em;
+    background: #3d83df;
+    font-family: Roboto,Arial,sans-serif;
+    line-height: 1em;
+    color: #fff;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    text-align: center;
+    text-decoration: none!important;
+    text-transform: uppercase;
+    transition: all .2s ease 0s;
+   
+}
+
+
+
+
+
+
+
+
+.joinusheader{ max-width: 520px;
+        margin: 0 auto;
+        font-size: .875em;
+        text-align: center;
+}
+
+
+.joinusheader h1{   font-size: 2.1428571429em;
+    color: #333;
+    margin-bottom: 0.75em;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+}
+
+
+
+.sectioninner{ 
+    
+    max-width: 1015px;
+        padding: 0 20px;
+        margin: 0 auto;
+        position: relative;
+        text-align: center;
+    
+    }
+
+
+.leadsection{ margin: 0px 70px }
+.elements{margin: 0px 70px }
+.brandsection{ margin: 0px 70px }
+
+ 
+
+.stats{
+    height: 600px;
+    background-color: #e5faf8;
+}
+.vertalign{
+    background-color:white;
+    width: 226px;
+    height: 250px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    margin:10px
+}
+
+.firstRow{
+    position: relative;
+ top:20px;
+
+}
+
+
